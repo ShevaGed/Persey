@@ -1,0 +1,19 @@
+﻿body {
+  background-color:powderblue; 
+  text-align:center;
+}
+
+h1 {
+  font-family:verdana;
+}
+#par1 {
+  color: green;
+}
+#par2 {
+  background-color:tomato;
+}
+button:hover, a:active {
+  
+  background-color: red;
+
+}
