@@ -1,15 +1,29 @@
-﻿body {
-  background-color:powderblue; 
+body {
+  background-color:#d8f0f3; 
   text-align:center;
+  background-image: url("kit2.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+  background-attachment: fixed;
+  background-size: 200px 270px
 }
 
 h1 {
   font-family:verdana;
 }
 #par1 {
-  color: green;
+  margin: 30px 300px 30px;
+  color: #191970;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #0fb061; 
+  border-radius: 15px;
 }
 #par2 {
+  width: 300px;
+  margin: auto;
+  border: 1px solid black;
   background-color:tomato;
 }
 button:hover, a:active {
